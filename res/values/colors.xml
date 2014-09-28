@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="LightPink">#FFB6C1</color>
+ <!-- 娴呯矇绾� -->
+    <color name="Pink">#FFC0CB</color>
+ <!-- 绮夌孩 -->
+    <color name="Crimson">#DC143C</color>
+ <!-- 娣辩孩/鐚╃孩 -->
+    <color name="LavenderBlush">#FFF0F5</color>
+ <!-- 娣＄传绾� -->
+    <color name="PaleVioletRed">#DB7093</color>
+ <!-- 寮辩传缃楀叞绾� -->
+    <color name="HotPink">#FF69B4</color>
+ <!-- 鐑儏鐨勭矇绾� -->
+    <color name="DeepPink">#FF1493</color>
+ <!-- 娣辩矇绾� -->
+    <color name="MediumVioletRed">#C71585</color>
+ <!-- 涓传缃楀叞绾� -->
+    <color name="Orchid">#DA70D6</color>
+ <!-- 鏆楃传鑹�/鍏拌姳绱� -->
+    <color name="Thistle">#D8BFD8</color>
+ <!-- 钃熻壊 -->
+    <color name="Plum">#DDA0DD</color>
+ <!-- 娲嬫潕鑹�/鏉庡瓙绱� -->
+    <color name="Violet">#EE82EE</color>
+ <!-- 绱綏鍏� -->
+    <color name="Magenta">#FF00FF</color>
+ <!-- 娲嬬孩/鐜懓绾� -->
+    <color name="Fuchsia">#FF00FF</color>
+ <!-- 绱孩/鐏娴锋 -->
+    <color name="DarkMagenta">#8B008B</color>
+ <!-- 娣辨磱绾� -->
+    <color name="Purple">#800080</color>
+ <!-- 绱壊 -->
+    <color name="MediumOrchid">#BA55D3</color>
+ <!-- 涓叞鑺辩传 -->
+    <color name="DarkViolet">#9400D3</color>
+ <!-- 鏆楃传缃楀叞 -->
+    <color name="DarkOrchid">#9932CC</color>
+ <!-- 鏆楀叞鑺辩传 -->
+    <color name="Indigo">#4B0082</color>
+ <!-- 闈涢潚/绱叞鑹� -->
+    <color name="BlueViolet">#8A2BE2</color>
+ <!-- 钃濈传缃楀叞 -->
+    <color name="MediumPurple">#9370DB</color>
+ <!-- 涓传鑹� -->
+    <color name="MediumSlateBlue">#7B68EE</color>
+ <!-- 涓殫钃濊壊/涓澘宀╄摑 -->
+    <color name="SlateBlue">#6A5ACD</color>
+ <!-- 鐭宠摑鑹�/鏉垮博钃� -->
+    <color name="DarkSlateBlue">#483D8B</color>
+ <!-- 鏆楃伆钃濊壊/鏆楁澘宀╄摑 -->
+    <color name="Lavender">#E6E6FA</color>
+ <!-- 娣＄传鑹�/鐔忚。鑽夋贰绱� -->
+    <color name="GhostWhite">#F8F8FF</color>
+ <!-- 骞界伒鐧� -->
+    <color name="Blue">#0000FF</color>
+ <!-- 绾摑 -->
+    <color name="MediumBlue">#0000CD</color>
+ <!-- 涓摑鑹� -->
+    <color name="MidnightBlue">#191970</color>
+ <!-- 鍗堝钃� -->
+    <color name="DarkBlue">#00008B</color>
+ <!-- 鏆楄摑鑹� -->
+    <color name="Navy">#000080</color>
+ <!-- 娴峰啗钃� -->
+    <color name="RoyalBlue">#4169E1</color>
+ <!-- 鐨囧钃�/瀹濊摑 -->
+    <color name="CornflowerBlue">#6495ED</color>
+ <!-- 鐭㈣溅鑿婅摑 -->
+    <color name="LightSteelBlue">#B0C4DE</color>
+ <!-- 浜挗钃� -->
+    <color name="LightSlateGray">#778899</color>
+ <!-- 浜摑鐏�/浜煶鏉跨伆 -->
+    <color name="SlateGray">#708090</color>
+ <!-- 鐏扮煶鑹�/鐭虫澘鐏� -->
+    <color name="DodgerBlue">#1E90FF</color>
+ <!-- 闂叞鑹�/閬撳钃� -->
+    <color name="AliceBlue">#F0F8FF</color>
+ <!-- 鐖变附涓濊摑 -->
+    <color name="SteelBlue">#4682B4</color>
+ <!-- 閽㈣摑/閾侀潚 -->
+    <color name="LightSkyBlue">#87CEFA</color>
+ <!-- 浜ぉ钃濊壊 -->
+    <color name="SkyBlue">#87CEEB</color>
+ <!-- 澶╄摑鑹� -->
+    <color name="DeepSkyBlue">#00BFFF</color>
+ <!-- 娣卞ぉ钃� -->
+    <color name="LightBlue">#ADD8E6</color>
+ <!-- 浜摑 -->
+    <color name="PowderBlue">#B0E0E6</color>
+ <!-- 绮夎摑鑹�/鐏嵂闈� -->
+    <color name="CadetBlue">#5F9EA0</color>
+ <!-- 鍐涘叞鑹�/鍐涙湇钃� -->
+    <color name="Azure">#F0FFFF</color>
+ <!-- 钄氳摑鑹� -->
+    <color name="LightCyan">#E0FFFF</color>
+ <!-- 娣￠潚鑹� -->
+    <color name="PaleTurquoise">#AFEEEE</color>
+ <!-- 寮辩豢瀹濈煶 -->
+    <color name="Cyan">#00FFFF</color>
+ <!-- 闈掕壊 -->
+    <color name="Aqua">#00FFFF</color>
+ <!-- 娴呯豢鑹�/姘磋壊 -->
+    <color name="DarkTurquoise">#00CED1</color>
+ <!-- 鏆楃豢瀹濈煶 -->
+    <color name="DarkSlateGray">#2F4F4F</color>
+ <!-- 鏆楃摝鐏拌壊/鏆楃煶鏉跨伆 -->
+    <color name="DarkCyan">#008B8B</color>
+ <!-- 鏆楅潚鑹� -->
+    <color name="Teal">#008080</color>
+ <!-- 姘撮腑鑹� -->
+    <color name="MediumTurquoise">#48D1CC</color>
+ <!-- 涓豢瀹濈煶 -->
+    <color name="LightSeaGreen">#20B2AA</color>
+ <!-- 娴呮捣娲嬬豢 -->
+    <color name="Turquoise">#40E0D0</color>
+ <!-- 缁垮疂鐭� -->
+    <color name="Aquamarine">#7FFFD4</color>
+ <!-- 瀹濈煶纰х豢 -->
+    <color name="MediumAquamarine">#66CDAA</color>
+ <!-- 涓疂鐭崇ⅶ缁� -->
+    <color name="MediumSpringGreen">#00FA9A</color>
+ <!-- 涓槬缁胯壊 -->
+    <color name="MintCream">#F5FFFA</color>
+ <!-- 钖勮嵎濂舵补 -->
+    <color name="SpringGreen">#00FF7F</color>
+ <!-- 鏄ョ豢鑹� -->
+    <color name="MediumSeaGreen">#3CB371</color>
+ <!-- 涓捣娲嬬豢 -->
+    <color name="SeaGreen">#2E8B57</color>
+ <!-- 娴锋磱缁� -->
+    <color name="Honeydew">#F0FFF0</color>
+ <!-- 铚滆壊/铚滅摐鑹� -->
+    <color name="LightGreen">#90EE90</color>
+ <!-- 娣＄豢鑹� -->
+    <color name="PaleGreen">#98FB98</color>
+ <!-- 寮辩豢鑹� -->
+    <color name="DarkSeaGreen">#8FBC8F</color>
+ <!-- 鏆楁捣娲嬬豢 -->
+    <color name="LimeGreen">#32CD32</color>
+ <!-- 闂厜娣辩豢 -->
+    <color name="Lime">#00FF00</color>
+ <!-- 闂厜缁� -->
+    <color name="ForestGreen">#228B22</color>
+ <!-- 妫灄缁� -->
+    <color name="Green">#008000</color>
+ <!-- 绾豢 -->
+    <color name="DarkGreen">#006400</color>
+ <!-- 鏆楃豢鑹� -->
+    <color name="Chartreuse">#7FFF00</color>
+ <!-- 榛勭豢鑹�/鏌ョ壒閰掔豢 -->
+    <color name="LawnGreen">#7CFC00</color>
+ <!-- 鑽夌豢鑹�/鑽夊潽缁� -->
+    <color name="GreenYellow">#ADFF2F</color>
+ <!-- 缁块粍鑹� -->
+    <color name="DarkOliveGreen">#556B2F</color>
+ <!-- 鏆楁﹦姒勭豢 -->
+    <color name="YellowGreen">#9ACD32</color>
+ <!-- 榛勭豢鑹� -->
+    <color name="OliveDrab">#6B8E23</color>
+ <!-- 姗勬瑜愯壊 -->
+    <color name="Beige">#F5F5DC</color>
+ <!-- 绫宠壊/鐏版鑹� -->
+    <color name="LightGoldenrodYellow">#FAFAD2</color>
+ <!-- 浜強榛� -->
+    <color name="Ivory">#FFFFF0</color>
+ <!-- 璞＄墮鑹� -->
+    <color name="LightYellow">#FFFFE0</color>
+ <!-- 娴呴粍鑹� -->
+    <color name="Yellow">#FFFF00</color>
+ <!-- 绾粍 -->
+    <color name="Olive">#808000</color>
+ <!-- 姗勬 -->
+    <color name="DarkKhaki">#BDB76B</color>
+ <!-- 鏆楅粍瑜愯壊/娣卞崱鍙藉竷 -->
+    <color name="LemonChiffon">#FFFACD</color>
+ <!-- 鏌犳缁� -->
+    <color name="PaleGoldenrod">#EEE8AA</color>
+ <!-- 鐏拌強榛�/鑻嶉簰楹熻壊 -->
+    <color name="Khaki">#F0E68C</color>
+ <!-- 榛勮鑹�/鍗″徑甯� -->
+    <color name="Gold">#FFD700</color>
+ <!-- 閲戣壊 -->
+    <color name="Cornsilk">#FFF8DC</color>
+ <!-- 鐜夌背涓濊壊 -->
+    <color name="Goldenrod">#DAA520</color>
+ <!-- 閲戣強榛� -->
+    <color name="DarkGoldenrod">#B8860B</color>
+ <!-- 鏆楅噾鑿婇粍 -->
+    <color name="FloralWhite">#FFFAF0</color>
+ <!-- 鑺辩殑鐧借壊 -->
+    <color name="OldLace">#FDF5E6</color>
+ <!-- 鑰佽姳鑹�/鏃ц暰涓� -->
+    <color name="Wheat">#F5DEB3</color>
+ <!-- 娴呴粍鑹�/灏忛害鑹� -->
+    <color name="Moccasin">#FFE4B5</color>
+ <!-- 楣跨毊鑹�/楣跨毊闈� -->
+    <color name="Orange">#FFA500</color>
+ <!-- 姗欒壊 -->
+    <color name="PapayaWhip">#FFEFD5</color>
+ <!-- 鐣湪鑹�/鐣湪鐡� -->
+    <color name="BlanchedAlmond">#FFEBCD</color>
+ <!-- 鐧芥潖鑹� -->
+    <color name="NavajoWhite">#FFDEAD</color>
+ <!-- 绾崇摝鐧�/鍦熻憲鐧� -->
+    <color name="AntiqueWhite">#FAEBD7</color>
+ <!-- 鍙よ懀鐧� -->
+    <color name="Tan">#D2B48C</color>
+ <!-- 鑼惰壊 -->
+    <color name="BurlyWood">#DEB887</color>
+ <!-- 纭湪鑹� -->
+    <color name="Bisque">#FFE4C4</color>
+ <!-- 闄跺澂榛� -->
+    <color name="DarkOrange">#FF8C00</color>
+ <!-- 娣辨鑹� -->
+    <color name="Linen">#FAF0E6</color>
+ <!-- 浜氶夯甯� -->
+    <color name="Peru">#CD853F</color>
+ <!-- 绉橀瞾鑹� -->
+    <color name="PeachPuff">#FFDAB9</color>
+ <!-- 妗冭倝鑹� -->
+    <color name="SandyBrown">#F4A460</color>
+ <!-- 娌欐鑹� -->
+    <color name="Chocolate">#D2691E</color>
+ <!-- 宸у厠鍔涜壊 -->
+    <color name="SaddleBrown">#8B4513</color>
+ <!-- 閲嶈鑹�/椹瀺妫曡壊 -->
+    <color name="Seashell">#FFF5EE</color>
+ <!-- 娴疯礉澹� -->
+    <color name="Sienna">#A0522D</color>
+ <!-- 榛勫湡璧壊 -->
+    <color name="LightSalmon">#FFA07A</color>
+ <!-- 娴呴矐楸艰倝鑹� -->
+    <color name="Coral">#FF7F50</color>
+ <!-- 鐝婄憵 -->
+    <color name="OrangeRed">#FF4500</color>
+ <!-- 姗欑孩鑹� -->
+    <color name="DarkSalmon">#E9967A</color>
+ <!-- 娣遍矞鑲�/椴戦奔鑹� -->
+    <color name="Tomato">#FF6347</color>
+ <!-- 鐣寗绾� -->
+    <color name="MistyRose">#FFE4E1</color>
+ <!-- 娴呯帿鐟拌壊/钖勯浘鐜懓 -->
+    <color name="Salmon">#FA8072</color>
+ <!-- 椴滆倝/椴戦奔鑹� -->
+    <color name="Snow">#FFFAFA</color>
+ <!-- 闆櫧鑹� -->
+    <color name="LightCoral">#F08080</color>
+ <!-- 娣＄強鐟氳壊 -->
+    <color name="RosyBrown">#BC8F8F</color>
+ <!-- 鐜懓妫曡壊 -->
+    <color name="IndianRed">#CD5C5C</color>
+ <!-- 鍗板害绾� -->
+    <color name="Red">#FF0000</color>
+ <!-- 绾孩 -->
+    <color name="Brown">#A52A2A</color>
+ <!-- 妫曡壊 -->
+    <color name="FireBrick">#B22222</color>
+ <!-- 鐏爾鑹�/鑰愮伀鐮� -->
+    <color name="DarkRed">#8B0000</color>
+ <!-- 娣辩孩鑹� -->
+    <color name="Maroon">#800000</color>
+ <!-- 鏍楄壊 -->
+    <color name="White">#FFFFFF</color>
+ <!-- 绾櫧 -->
+    <color name="WhiteSmoke">#F5F5F5</color>
+ <!-- 鐧界儫 -->
+    <color name="Gainsboro">#DCDCDC</color>
+ <!-- 娣＄伆鑹� -->
+    <color name="LightGrey">#D3D3D3</color>
+ <!-- 娴呯伆鑹� -->
+    <color name="Silver">#C0C0C0</color>
+ <!-- 閾剁伆鑹� -->
+    <color name="DarkGray">#A9A9A9</color>
+ <!-- 娣辩伆鑹� -->
+    <color name="Gray">#808080</color>
+ <!-- 鐏拌壊 -->
+    <color name="DimGray">#696969</color>
+ <!-- 鏆楁贰鐏� -->
+    <color name="Black">#000000</color>
+ <!-- 绾粦 -->
+
+</resources>
